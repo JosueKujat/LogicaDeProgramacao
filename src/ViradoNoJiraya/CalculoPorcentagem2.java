@@ -1,6 +1,6 @@
 package ViradoNoJiraya;
 
-public class Aula11 {
+public class CalculoPorcentagem2 {
     public static void main(String[] args) {
         double salario = 2500F;
         double resultado = salario * 0.3;

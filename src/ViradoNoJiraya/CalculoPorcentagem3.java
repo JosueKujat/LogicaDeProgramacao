@@ -1,6 +1,6 @@
 package ViradoNoJiraya;
 
-public class Aula15 {
+public class CalculoPorcentagem3 {
     public static void main(String[] args) {
         float salario = 4200.50f;
         float calc;

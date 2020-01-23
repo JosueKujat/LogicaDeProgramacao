@@ -1,6 +1,6 @@
 package ViradoNoJiraya;
 
-public class Aula14 {
+public class AdultoOuNao {
     public static void main(String[] args) {
         int idade = 17;
         if (idade > 18){

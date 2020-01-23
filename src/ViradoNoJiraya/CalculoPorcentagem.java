@@ -1,6 +1,6 @@
 package ViradoNoJiraya;
 //Criar uma classe de calculo de porcentagem
-public class Aula10 {
+public class CalculoPorcentagem {
     public static void main(String[] args) {
         float salario = 2500.00f;
         float porcentagem = 30;
