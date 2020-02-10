@@ -1,4 +1,4 @@
-package ViradoNoJiraya;
+package Kujat.Josue.EstruturasCondicionais.IfeElse;
 
 public class AdultoOuNao {
     public static void main(String[] args) {
