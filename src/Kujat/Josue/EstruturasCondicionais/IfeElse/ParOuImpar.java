@@ -1,4 +1,4 @@
-package ViradoNoJiraya;
+package Kujat.Josue.EstruturasCondicionais.IfeElse;
 
 public class ParOuImpar {
     public static void main(String[] args) {

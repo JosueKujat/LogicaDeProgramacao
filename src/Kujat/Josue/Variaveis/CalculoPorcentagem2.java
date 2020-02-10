@@ -1,4 +1,4 @@
-package ViradoNoJiraya;
+package Kujat.Josue.Variaveis;
 
 public class CalculoPorcentagem2 {
     public static void main(String[] args) {
