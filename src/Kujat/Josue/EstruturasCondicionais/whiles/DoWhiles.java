@@ -5,8 +5,7 @@ public class DoWhiles {
         boolean desejacontinuar = true;
         do {
             System.out.println();
-        }while (desejacontinuar);
-
+        } while (desejacontinuar);
 
 
     }

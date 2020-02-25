@@ -19,7 +19,6 @@ public class Login {
                 break;
             }
             System.out.println("Acesso negado");
-
         }
     }
 }
